@@ -1,0 +1,43 @@
+body { font-family: 'PT Sans', sans-serif }
+h1, h2, h3, h4, h5, h6 { font-family: 'Exo 2', sans-serif }
+.exo-2 { font-family: 'Exo 2', sans-serif }
+.pt-sans { font-family: 'PT Sans', sans-serif }
+
+.text-dark-100 { color: #0e0f11 }
+.text-dark-200 { color: #141719 }
+.text-dark-300 { color: #1b1e21 }
+
+.text-light-100 { color: #eeefef }
+.text-light-200 { color: #dadada }
+.text-light-300 { color: #c4c4c4 }
+
+.text-blue-100 { color: #4b93b1 }
+.text-blue-200 { color: #247ba0 }
+.text-blue-300 { color: #1b5a75 }
+
+.text-red-100 { color: #f67884 }
+.text-red-200 { color: #f45b69 }
+.text-red-300 { color: #b2434d }
+
+.bg-dark-100 { background-color: #0e0f11 }
+.bg-dark-200 { background-color: #141719 }
+.bg-dark-300 { background-color: #1b1e21 }
+
+.bg-light-100 { background-color: #eeefef }
+.bg-light-200 { background-color: #dadada }
+.bg-light-300 { background-color: #c4c4c4 }
+
+.bg-blue-100 { background-color: #4b93b1 }
+.bg-blue-200 { background-color: #247ba0 }
+.bg-blue-300 { background-color: #1b5a75 }
+
+.bg-red-100 { background-color: #f67884 }
+.bg-red-200 { background-color: #f45b69 }
+.bg-red-300 { background-color: #b2434d }
+
+.pixelated {
+  -ms-interpolation-mode: nearest-neighbor;
+  image-rendering: pixelated;
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: crisp-edges;
+}
